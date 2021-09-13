@@ -1,2 +1,2 @@
 # sophie
-Chatting Bot 
+Chatting Bot with python
